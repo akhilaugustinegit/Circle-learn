@@ -1,0 +1,166 @@
+body {
+	
+    background-image: url('mhbg2.JPEG');
+    background-repeat: no-repeat, repeat;
+    background-size:100%;
+    background-position-x: 0px;
+    
+    max-width: 100%;
+height: auto;
+}
+
+
+.container1{
+  display: flex;
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+   font-size: 1.4cm;
+    margin-left: 12cm;
+  }
+  
+
+
+
+
+  
+
+h2 {
+   margin-left: 12cm; 
+	color: rgba(232, 198, 198, 0.9);
+font-family: 'San Francisco', Helvetica, Arial, san-serif;
+  
+}
+
+.gbox { 
+  width: 50%; 
+  left: 10px;
+  margin-right: 200;
+}
+
+.detbox5{
+
+	
+  position: relative;
+    color: rgba(199, 23, 10, 0.9);
+  font-family: 'San Francisco', Helvetica, Arial, san-serif;
+    
+  border: 2px solid #8b0a0a;
+    border-radius: 26px;
+  
+    background: rgb(255, 255, 255);
+    margin-top: .2px;
+  margin-block-end:2px ;
+    padding: 30px;
+    width: 350px;
+    height: 550px;
+      margin-left: 5cm;
+    box-shadow: 0 8px 20px 0 rgba(0, 0, 0, 0.2), 0 12px 40px 0 rgba(0, 0, 0, 0.19);
+  
+  
+  }
+  .gbox1 { 
+   
+  position: relative;
+  color: rgba(199, 23, 10, 0.9);
+font-family: 'San Francisco', Helvetica, Arial, san-serif;
+  
+border: 2px solid #8b0a0a;
+  border-radius: 26px;
+
+  background-repeat: no-repeat, repeat;
+  background-size: cover;
+  background-position-x: 0px;
+
+
+
+  margin-top: .2px;
+margin-block-end:2px ;
+  padding: 30px;
+  width: 750px;
+  height: 390px;
+    margin-left: 5cm;
+  box-shadow: 0 8px 20px 0 rgba(0, 0, 0, 0.2), 0 12px 40px 0 rgba(0, 0, 0, 0.19);
+  }
+  .gbox1 img{
+    width: 400px;
+    height: 964px;
+  }
+ 
+
+  button {
+    border-radius: 13px;
+    background-color: #ca1c1c; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-right: 0px;
+    margin-left: 1px;
+    }
+  
+  
+
+
+    .gbox3 { 
+   
+      position: relative;
+      color: rgba(199, 23, 10, 0.9);
+    font-family: 'San Francisco', Helvetica, Arial, san-serif;
+      
+    border: 2px solid #8b0a0a;
+      border-radius: 26px;
+    
+    
+      margin-top: .2px;
+    margin-block-end:2px ;
+      padding: 30px;
+      width: 750px;
+  height: 390px;
+        margin-left: 5cm;
+      box-shadow: 0 8px 20px 0 rgba(0, 0, 0, 0.2), 0 12px 40px 0 rgba(0, 0, 0, 0.19);
+      }
+
+      .gbox4 { 
+   
+        position: relative;
+        color: rgba(199, 23, 10, 0.9);
+      font-family: 'San Francisco', Helvetica, Arial, san-serif;
+        
+      border: 2px solid #8b0a0a;
+        border-radius: 26px;
+      
+        background: rgb(255, 255, 255);
+        margin-top: .2px;
+      margin-block-end:2px ;
+        padding: 30px;
+        width: 750px;
+        height: 390px;
+          margin-left: 5cm;
+        box-shadow: 0 8px 20px 0 rgba(0, 0, 0, 0.2), 0 12px 40px 0 rgba(0, 0, 0, 0.19);
+        }
+.topnav {
+  background-color: #33333300;
+  overflow: hidden;
+}
+
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 25px;
+}
+
+
+.topnav a:hover {
+  background-color: #0000008c;
+  color: rgb(247, 42, 42);
+}
+
